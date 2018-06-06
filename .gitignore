@@ -1,0 +1,8 @@
+*-lock.json
+logs
+*.log
+npm-debug.log*
+.npm
+.idea
+node_modules
+front/build
